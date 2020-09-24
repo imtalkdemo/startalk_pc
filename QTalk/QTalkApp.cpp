@@ -342,6 +342,7 @@ void QTalkApp::initLogSys() {
     //
     qInstallMessageHandler(LogMsgOutput);
     //
+    info_log("log filename :{0}", fileName);
     info_log("系统启动 当前版本号:{0}", PLAT.getClientVersion());
 //    info_log("supportsSsl {0}", QSslSocket::supportsSsl());
 //    qDebug() << QStringLiteral("系统启动");
@@ -459,7 +460,7 @@ void QTalkApp::onApplicationStateChange(Qt::ApplicationState state) {
 }
 
 /**
- * 
+ *
  */
 #ifdef _WINDOWS
 

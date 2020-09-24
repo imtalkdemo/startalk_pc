@@ -5,6 +5,7 @@
 #include "GroupItemDelegate.h"
 #include <QDebug>
 #include <QPainter>
+#include <QPainterPath>
 #include <QFile>
 #include <QFileInfo>
 #include "../CustomUi/HeadPhotoLab.h"

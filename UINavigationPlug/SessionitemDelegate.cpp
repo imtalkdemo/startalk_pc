@@ -6,6 +6,7 @@
 #include "../QtUtil/Utils/Log.h"
 #include "../CustomUi/HeadPhotoLab.h"
 #include <QPainter>
+#include <QPainterPath>
 #include <QDateTime>
 #include <iostream>
 #include <QEvent>
@@ -305,4 +306,3 @@ void SessionitemDelegate::paint(QPainter *painter, const QStyleOptionViewItem &o
     //
     painter->restore();
 }
-

@@ -7,6 +7,7 @@
 #include "../../UICom/qimage/qimage.h"
 #include <QFileInfo>
 #include <QPainter>
+#include <QPainterPath>
 #include <QRegExp>
 #include <QDebug>
 

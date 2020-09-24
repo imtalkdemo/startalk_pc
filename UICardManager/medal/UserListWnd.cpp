@@ -8,6 +8,7 @@
 #include "../../UICom/StyleDefine.h"
 #include <QVBoxLayout>
 #include <QPainter>
+#include <QPainterPath>
 #include <QToolButton>
 #include <QScrollBar>
 #include <QFileInfo>

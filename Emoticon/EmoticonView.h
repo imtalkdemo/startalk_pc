@@ -7,6 +7,7 @@
 
 #include <QFrame>
 #include <QMovie>
+#include <QPainterPath>
 
 /**
 * @description: EmoticonView

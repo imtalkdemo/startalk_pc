@@ -5,6 +5,7 @@
 #include "ListItemView.h"
 #include <QHBoxLayout>
 #include <QPainter>
+#include <QPainterPath>
 #include <QFile>
 #include <QEvent>
 #include <QtWidgets/QListView>

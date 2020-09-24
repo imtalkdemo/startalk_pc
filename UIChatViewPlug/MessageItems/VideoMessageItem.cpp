@@ -9,6 +9,7 @@
 #include <QStackedLayout>
 #include <QMouseEvent>
 #include <QPainter>
+#include <QPainterPath>
 #include <QDir>
 #include "../../Platform/Platform.h"
 #include "../../UICom/qimage/qimage.h"

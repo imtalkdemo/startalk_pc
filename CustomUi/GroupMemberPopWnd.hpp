@@ -15,6 +15,7 @@
 #include <QSortFilterProxyModel>
 #include <QStyledItemDelegate>
 #include <QPainter>
+#include <QPainterPath>
 #include <QFile>
 #include <QFileInfo>
 #include <QHeaderView>

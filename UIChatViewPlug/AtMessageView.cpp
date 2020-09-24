@@ -4,6 +4,7 @@
 
 #include "AtMessageView.h"
 #include <QPainter>
+#include <QPainterPath>
 #include <QHBoxLayout>
 #include <QEvent>
 #include <QKeyEvent>
@@ -383,4 +384,3 @@ bool AtMessageView::match(const QString &str) {
 //    }
 //    return QDialog::mousePressEvent(e);
 //}
-

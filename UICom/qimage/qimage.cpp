@@ -4,6 +4,7 @@
 
 #include "qimage.h"
 #include <QPainter>
+#include <QPainterPath>
 #include <QFileInfo>
 #include <QGuiApplication>
 #include <QScreen>

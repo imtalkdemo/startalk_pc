@@ -7,6 +7,7 @@
 #include "../../UICom/qimage/qimage.h"
 #include "../../Platform/AppSetting.h"
 #include <QPainter>
+#include <QPainterPath>
 #include <QFileInfo>
 #include <QEvent>
 #include <QDebug>

@@ -5,6 +5,7 @@
 #include "SelectUserWnd.h"
 #include <QPushButton>
 #include <QButtonGroup>
+#include <QPainterPath>
 #include <thread>
 #include <QFile>
 #include <QFileInfo>

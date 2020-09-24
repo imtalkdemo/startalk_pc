@@ -6,6 +6,7 @@
 #include <utility>
 #include <QFile>
 #include <QPainter>
+#include <QPainterPath>
 #include "../Platform/Platform.h"
 #include "ChatViewMainPanel.h"
 #include "../UICom/qimage/qimage.h"

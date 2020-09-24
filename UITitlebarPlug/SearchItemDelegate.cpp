@@ -9,6 +9,7 @@
 #include <QPainter>
 #include <QFile>
 #include <QFileInfo>
+#include <QPainterPath>
 #include <QMouseEvent>
 #include <QEvent>
 
